@@ -1,1 +1,1 @@
-build\
+QueryWindow\build\
